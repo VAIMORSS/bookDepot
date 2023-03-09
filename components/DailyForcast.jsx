@@ -3,7 +3,7 @@ import { styled } from '@mui/system';
 import PropTypes from 'prop-types';
 import { DailyForcastWrapper, InfoText } from './Utils/StyledComponents';
 
-const weekday = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+const weekday = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"];
 
 export default function DailyForcast(props) {
 
